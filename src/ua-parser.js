@@ -185,7 +185,7 @@
             },
             name : {
                 'Opera Mobile' : 'Opera Mobi',
-                'IE Mobile'    : 'IEMobile'
+                'IE Mobile'    : 'IE Mobile'
             }
         },
 
