@@ -17,7 +17,7 @@
     /////////////
 
 
-    var LIBVERSION  = '0.7.28',
+    var LIBVERSION  = '0.7.29',
         EMPTY       = '',
         UNKNOWN     = '?',
         FUNC_TYPE   = 'function',
